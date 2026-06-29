@@ -1,4 +1,4 @@
-# 
+# Elite arbitrage trading bot tools for Mac OS | VIP arbitrage trading bot tools for PC Windows. Featuring mean reversion strategy and centralized exchange api — optimized for maximum performance.
 
 
 
